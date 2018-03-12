@@ -17,6 +17,7 @@
 		E5AA4A7C2056540B00FACE89 /* firstUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E5AA4A7B2056540B00FACE89 /* firstUITests.m */; };
 		E5AA4A8B2056545300FACE89 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = E5AA4A8A2056545300FACE89 /* Person.m */; };
 		E5AA4A8E2056546E00FACE89 /* kk.m in Sources */ = {isa = PBXBuildFile; fileRef = E5AA4A8D2056546E00FACE89 /* kk.m */; };
+		E5AA4A9120565E0300FACE89 /* ssss.m in Sources */ = {isa = PBXBuildFile; fileRef = E5AA4A9020565E0300FACE89 /* ssss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		E5AA4A8A2056545300FACE89 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		E5AA4A8C2056546E00FACE89 /* kk.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = kk.h; sourceTree = "<group>"; };
 		E5AA4A8D2056546E00FACE89 /* kk.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kk.m; sourceTree = "<group>"; };
+		E5AA4A8F20565E0300FACE89 /* ssss.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ssss.h; sourceTree = "<group>"; };
+		E5AA4A9020565E0300FACE89 /* ssss.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ssss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,8 @@
 				E5AA4A5B2056540B00FACE89 /* ViewController.m */,
 				E5AA4A892056545300FACE89 /* Person.h */,
 				E5AA4A8A2056545300FACE89 /* Person.m */,
+				E5AA4A8F20565E0300FACE89 /* ssss.h */,
+				E5AA4A9020565E0300FACE89 /* ssss.m */,
 				E5AA4A8C2056546E00FACE89 /* kk.h */,
 				E5AA4A8D2056546E00FACE89 /* kk.m */,
 				E5AA4A5D2056540B00FACE89 /* Main.storyboard */,
@@ -278,6 +283,7 @@
 				E5AA4A8E2056546E00FACE89 /* kk.m in Sources */,
 				E5AA4A5C2056540B00FACE89 /* ViewController.m in Sources */,
 				E5AA4A672056540B00FACE89 /* main.m in Sources */,
+				E5AA4A9120565E0300FACE89 /* ssss.m in Sources */,
 				E5AA4A8B2056545300FACE89 /* Person.m in Sources */,
 				E5AA4A592056540B00FACE89 /* AppDelegate.m in Sources */,
 			);
